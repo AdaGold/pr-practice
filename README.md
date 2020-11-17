@@ -4,7 +4,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Person A:
 
-Emily added a txt file.
 
 ## Person B:
 
@@ -16,7 +15,7 @@ Person C should modify content here.
 
 ## Person D:
 
-Person D should modify content here.
+Emily added a txt file.
 
 ## Person E:
 
